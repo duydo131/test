@@ -1,2 +1,7 @@
 xin chao d
-
+xin chao dd
+<<<<<<< HEAD
+xin chao ddd
+=======
+hello d
+>>>>>>> hellod
